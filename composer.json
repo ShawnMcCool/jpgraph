@@ -42,5 +42,6 @@
       "Amenadiel\\JpGraph\\Themes\\": "src/themes",
       "Amenadiel\\JpGraph\\Util\\": "src/util"
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
