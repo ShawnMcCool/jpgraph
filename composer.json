@@ -1,5 +1,5 @@
 {
-  "name": "amenadiel/jpgraph",
+  "name": "shawnmccool/jpgraph",
   "type": "library",
   "description": "jpGraph, library to make graphs and charts",
   "version": "4.1.0-beta.01",
@@ -42,8 +42,5 @@
       "Amenadiel\\JpGraph\\Themes\\": "src/themes",
       "Amenadiel\\JpGraph\\Util\\": "src/util"
     }
-  },
-  "scripts": {
-    "start": "php -S localhost:8000 -t Examples"
   }
 }
